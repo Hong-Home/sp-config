@@ -8,7 +8,7 @@ spring:
   cloud:
     config: 
       override-none: true
-  rabbit:
+  rabbitmq:
     host: 192.168.64.140
     port: 5672
     username: admin
